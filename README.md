@@ -1,3 +1,3 @@
 # React Testing Library
 
-Working with the React Testing Library. Testing React app with Router, Redux and Hooks.
+Testing a React app with Router, Redux and Hooks using the react-testing-library
